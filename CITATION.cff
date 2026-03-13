@@ -1,0 +1,23 @@
+title: "Unlikely Intersections via Atypical-Locus Persistence"
+  message: "If you use this workspace, cite the manuscript and theorem notes."
+  type: software
+  authors:
+    - name: "HautevilleHouse"
+  date-released: 2026-03-05
+  repository-code: "https://github.com/HautevilleHouse/unlikely-intersections-canonical-lane"
+  url: "https://github.com/HautevilleHouse/unlikely-intersections-canonical-lane"
+  license: None
+  keywords:
+- arithmetic-geometry
+- canonical-lane
+- local-to-global
+- manifold-constrained
+- mathematical-proof
+- reproducibility
+- unlikely-intersections
+  preferred-citation:
+    type: article
+    title: "Unlikely Intersections via Atypical-Locus Persistence"
+    authors:
+      - name: "HautevilleHouse"
+    date: 2026-03-05
