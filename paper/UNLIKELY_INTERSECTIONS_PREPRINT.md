@@ -158,6 +158,15 @@ Once bad limits are excluded, the extracted endpoint class is transferred to the
 
 The determining class is recorded in `notes/IDENTIFICATION_BRIDGE.md`. The coherence remainder is strict-zero in the current certificate.
 
+### 6.4 Mainstream translation note
+
+In ordinary arithmetic-geometric language, the canonical-lane endpoint is the
+predicted unlikely-intersection target class on the declared admissible family.
+The packets tracked by `U_tau`, together with the lock quantity
+`intersection_lock`, encode the intersection constraints that survive
+compactness and rigidity. The bridge note records the determining observables
+used to identify the extracted endpoint with the standard target statement.
+
 ---
 
 ## 7. Constants, Reproducibility, and Runtime Snapshot
